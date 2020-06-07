@@ -1,0 +1,6 @@
+name: EntitySpawning
+version: ${project.version}
+main: me.mrlarkyy.entityspawning.EntitySpawning
+commands:
+  spawnentity:
+    description: spawns entity
